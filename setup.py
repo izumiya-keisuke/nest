@@ -90,4 +90,5 @@ setuptools.setup(
     cmdclass={"build_ext": BuildExt},
     install_requires=["pybind11>=2.3"],
     setup_requires=["pybind11>=2.3"],
+    license="Apache-2.0",
 )

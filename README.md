@@ -1,7 +1,7 @@
 
 # Nest library
 
-Source: <https://github.com/facebookresearch/torchbeast>
+This library uses parts of [torchbeast](https://github.com/facebookresearch/torchbeast) almost as is (this sentence and the license have been added), distributed in the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ```shell
 CXX=c++ pip install . -vv
